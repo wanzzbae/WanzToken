@@ -1,0 +1,2 @@
+# WanzToken
+Vester
